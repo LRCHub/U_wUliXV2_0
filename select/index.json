@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "BANSHEE",
+  "base_artist": "FloyyMenor & J Balvin",
+  "createdAt": "2026-02-24T15:30:05.740025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Banshee Beat",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/01_Banshee_Beat_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/02_Banshee_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/03_Banshee_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Furor Gallico",
+      "has_synced": true,
+      "path": "select/04_Banshee_Furor_Gallico.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cry of a Banshee",
+      "artist": "Blackbriar",
+      "has_synced": true,
+      "path": "select/05_Cry_of_a_Banshee_Blackbriar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Mercyful Fate",
+      "has_synced": true,
+      "path": "select/06_Banshee_Mercyful_Fate.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cry Of The Banshee",
+      "artist": "Exciter",
+      "has_synced": true,
+      "path": "select/07_Cry_Of_The_Banshee_Exciter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/08_Banshee_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Banshee - BBC Radio Bob Harris Session",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/09_Banshee_-_BBC_Radio_Bob_Harris_Session_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Banshee",
+      "artist": "Electric Callboy",
+      "has_synced": true,
+      "path": "select/10_Banshee_Electric_Callboy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANSHEE",
+      "artist": "FloyyMenor & J Balvin",
+      "has_synced": false,
+      "path": "select/pl_01_BANSHEE_FloyyMenor_&_J_Balvin.txt"
+    }
+  ]
+}
